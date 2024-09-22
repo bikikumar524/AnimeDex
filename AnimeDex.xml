@@ -421,15 +421,15 @@ h1{font-family:"Montserrat",sans-serif;font-size:40px;color:white;font-weight:70
 <b:include name='skipNavigation'/> 
 <nav id='head-div'>
   <b:section id='nav' showaddelement='true'>
-    <b:widget id='Header1' locked='true' title='AnimeDex (Header)' type='Header' version='2' visible='true'>
+    <b:widget id='Header1' locked='true' title='Donghua Suge (Header)' type='Header' version='2' visible='true'>
       <b:widget-settings>
-        <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXi3YdAE5kaXz9MNiePmauHjnVPDCzEAsTnfzW9Bgp9ZPygk7GGFf2EqNh-wozMiYwNa6NFn3k-aqpSa5t7PpT01p6v0PO1apqyACnPXHQjiZdymv7d708b6hI4CQMvN1n3IzOms0mfrjKMlz4vYyC6qQ9yBj6CyUzGQwoQ6GXimpKDw1D5WQEKJl2PY/s150/header.png</b:widget-setting>
-        <b:widget-setting name='displayHeight'>40</b:widget-setting>
-        <b:widget-setting name='sectionWidth'>1613</b:widget-setting>
+        <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEi4xA3lg04mXYUMj1yQbBTEjhWETczilM0AIEGVRRAsc1UcEr_VzQ-6K1z9WmZsfEHKJQLVwUZ1Mwzomk-GAkisIgJIyz_gfCyguwh9qksEFm1cbWywNI9niIENJvXVlU-lPQYCl2zM6Ctac9WATB0uJI-WZKsUO8RfwLJ5aKrHu4u1EaicKBXTN3eGVuSF=s1238</b:widget-setting>
+        <b:widget-setting name='displayHeight'>696</b:widget-setting>
+        <b:widget-setting name='sectionWidth'>1238</b:widget-setting>
         <b:widget-setting name='useImage'>true</b:widget-setting>
-        <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-        <b:widget-setting name='imagePlacement'>REPLACE</b:widget-setting>
-        <b:widget-setting name='displayWidth'>150</b:widget-setting>
+        <b:widget-setting name='shrinkToFit'>true</b:widget-setting>
+        <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
+        <b:widget-setting name='displayWidth'>1238</b:widget-setting>
       </b:widget-settings>
       <b:includable id='main' var='this'>
     <div class='header-widget'>
@@ -490,171 +490,14 @@ h1{font-family:"Montserrat",sans-serif;font-size:40px;color:white;font-weight:70
   </b:section>
 </nav>
 
-  <b:if cond='data:view.isHomepage'>
-<div class='slideshow-container'>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#1 Spotlight</p>
-         <h1>Undead Unluck</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Action, Comedy, Sci-Fi, Supernatural</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>All Fuuko wants is a passionate romance like the one in her favorite shoujo manga. Unfortunately, her Unluck ability makes that impossible. But just as Fuuko hits rock bottom, Andy sweeps her off her feet&#8212;literally! Now she&#39;s become Andy&#39;s unwilling test subject as he works to find a way to trigger a stroke of Unluck big enough to kill him for good. However, when the pair discovers a secret organization is hunting them, it puts Andy&#39;s burial plans on hold.<br/>
-            <br/>
-            (Source: Viz Media)
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Undead%20Unluck'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Undead%20Unluck'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Undead%20Unluck'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/154116-dFaciqCd2pZU.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: flex;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#2 Spotlight</p>
-         <h1>Dungeon Meshi</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Adventure, Comedy, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>When young adventurer Laios and his company are attacked and soundly thrashed by a dragon deep in a dungeon, the party loses all its money and provisions...and a member! They&#39;re eager to go back and save her, but there is just one problem: If they set out with no food or coin to speak of, they&#39;re sure to starve on the way! But Laios comes up with a brilliant idea: &quot;Let&#39;s eat the monsters!&quot; Slimes, basilisks, and even dragons...none are safe from the appetites of these dungeon-crawling gourmands! <br/>
-            <br/>
-            (Source: Yen Press)
-            <br/><br/>
-            <i>Note: A world premiere screening of Episode 1 was shown in the Studio TRIGGER panel at Anime Expo on July 1, 2023.</i>
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Dungeon%20Meshi'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Dungeon%20Meshi'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Dungeon%20Meshi'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/153518-7uRvV7SLqmHV.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#3 Spotlight</p>
-         <h1>Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Adventure, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>Stars are everything, granting abilities to Tamers. So when Ivy was born without one, her village took it as an ill omen! Now banished, she leads a lonely life of salvaging rubbish to survive. That is until she befriends Sora, a weak little slime, in the forest. Together, the delicate duo embarks on a heartwarming journey of survival and discovers there&#8217;s more to Ivy than being starless.<br/>
-            <br/>
-            (Source: Crunchyroll)
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Saijaku%20Tamer%20wa%20Gomi%20Hiroi%20no%20Tabi%20wo%20Hajimemashita.'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Saijaku%20Tamer%20wa%20Gomi%20Hiroi%20no%20Tabi%20wo%20Hajimemashita.'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Saijaku%20Tamer%20wa%20Gomi%20Hiroi%20no%20Tabi%20wo%20Hajimemashita.'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/156891-VdUOlIqn48TE.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#4 Spotlight</p>
-         <h1>Sousou no Frieren</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Adventure, Drama, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>The adventure is over but life goes on for an elf mage just beginning to learn what living is all about. Elf mage Frieren and her courageous fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people around her? Decades after their victory, the funeral of one her friends confronts Frieren with her own near immortality. Frieren sets out to fulfill the last wishes of her comrades and finds herself beginning a new adventure&#8230;
-            <br/><br/>
-            (Source: Crunchyroll)
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Sousou%20no%20Frieren'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Sousou%20no%20Frieren'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Sousou%20no%20Frieren'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/154587-ivXNJ23SM1xB.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#5 Spotlight</p>
-         <h1>Sasaki to Pii-chan</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Comedy, Fantasy, Mahou Shoujo</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>Sasaki is a middle-aged office worker living in Japan. Feeling drained by the vapid corporate world, he heads to the pet shop in search of a new companion. There he finds an adorable bird named Peeps and takes him home. But Sasaki quickly learns that Peeps isn&#8217;t your average bird&#8230;he&#8217;s a powerful mage from another world! Together, they embark on a magical adventure filled with swords and sorcery.<br/>
-            <br/>
-            (Source: Crunchyroll)
-            <br/><br/>
-            <i>Note: The first episode aired with a runtime of ~48 minutes.</i>
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Sasaki%20to%20Pii-chan'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Sasaki%20to%20Pii-chan'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Sasaki%20to%20Pii-chan'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/152682-5Lr6NRpiWh43.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#6 Spotlight</p>
-         <h1>ONE PIECE</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Action, Adventure, Comedy, Drama, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br/><br/>
-            Enter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy&#8217;s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br/><br/>
-            <b>*This includes following special episodes:</b><br/>
-            - Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br/>
-            - The Strongest Tag-Team! Luffy and Toriko&#39;s Hard Struggle! (Episode 492)<br/>
-            - Team Formation! Save Chopper (Episode 542)<br/>
-            - History&#39;s Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br/>
-            - 20th Anniversary! Special Romance Dawn (Episode 907)
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=ONE%20PIECE'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=ONE%20PIECE'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=ONE%20PIECE'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#7 Spotlight</p>
-         <h1>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Drama, Psychological</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>The third season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br/>
-            <br/>
-            The third semester kicks off in high gear with a special boot camp deep in the mountains. Forcibly separated into groups along grade and gender lines, the first, second and third years alike must work together to survive the rugged terrain. Even worse? The leader of the group that comes in last will be expelled. Can Class D make it back to campus intact, or is this where they finally say goodbye to one of their own?<br/>
-            <br/>
-            (Source: Seven Seas Entertainment)
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Youkoso%20Jitsuryoku%20Shijou%20Shugi%20no%20Kyoushitsu%20e%203rd%20Season'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Youkoso%20Jitsuryoku%20Shijou%20Shugi%20no%20Kyoushitsu%20e%203rd%20Season'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Youkoso%20Jitsuryoku%20Shijou%20Shugi%20no%20Kyoushitsu%20e%203rd%20Season'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/146066-gxjPUB1ofAO4.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#8 Spotlight</p>
-         <h1>Ore dake Level Up na Ken</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Action, Adventure, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>They say whatever doesn&#8217;t kill you makes you stronger, but that&#8217;s not the case for the world&#8217;s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that&#8217;s leveling him up in every way. Now, he&#8217;s inspired to discover the secrets behind his powers and the dungeon that spawned them.<br/>
-            <br/>
-            (Source: Crunchyroll) <br/><br/>
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Ore%20dake%20Level%20Up%20na%20Ken'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Ore%20dake%20Level%20Up%20na%20Ken'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Ore%20dake%20Level%20Up%20na%20Ken'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/151807-37yfQA3ym8PA.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#9 Spotlight</p>
-         <h1>Nozomanu Fushi no Boukensha</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>ONA</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Action, Adventure, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>Rentt Faina has hunted monsters for the last 10 years. Sadly, he&#8217;s not great at his job, stuck hunting slimes and goblins for a few coins each day. His luck turns when he finds an undiscovered path. At the path&#8217;s end, he meets his demise in the maw of a legendary dragon. But, he wakes up as an undead bag of bones! He sets out to achieve Existential Evolution and rejoin the land of the living.<br/>
-            <br/>
-            (Source: Crunchyroll)
-            <br/><br/>
-            <i>Note: Each episode streamed 3 days early on some streaming sites. The original TV broadcast started on January 8th, 2024.</i>
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Nozomanu%20Fushi%20no%20Boukensha'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Nozomanu%20Fushi%20no%20Boukensha'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Nozomanu%20Fushi%20no%20Boukensha'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/147642-TZIcI9SzmKwl.jpg'/> 
-   </div>
-   <div class='mySlides fade' style='display: none;'>
-      <div class='data-slider'>
-         <p class='spotlight'>#10 Spotlight</p>
-         <h1>Chiyu Mahou no Machigatta Tsukaikata</h1>
-         <div class='extra1'> <span class='year'><i aria-hidden='true' class='fa fa-play-circle'/>TV</span> <span class='year year2'><i aria-hidden='true' class='fa fa-calendar'/>RELEASING</span> <span class='cbox cbox1'>Action, Fantasy</span> <span class='cbox cbox2'>HD</span> </div>
-         <p class='small-synop'>An ordinary walk home from school turns into an epic journey for Usato. After suddenly being dropped into another world with two fellow students, Usato learns he was summoned there by accident. But things turn around when he discovers a unique aptitude for healing magic! Now, he trains beyond human limitations, using his self-healing abilities to gain absurd strength and unrivaled stamina.<br/>
-            <br/>
-            (Source: Crunchyroll)
-         </p>
-         <div id='watchh'> <a class='watch-btn' href='./anime.html?anime=Chiyu%20Mahou%20no%20Machigatta%20Tsukaikata'> <i aria-hidden='true' class='fa fa-play-circle'/> Watch Now </a> <a class='watch-btn watch-btn2' href='./anime.html?anime=Chiyu%20Mahou%20no%20Machigatta%20Tsukaikata'> <i aria-hidden='true' class='fa fa-info-circle'/> Details<i aria-hidden='true' class='fa fa-angle-right'/> </a> </div>
-      </div>
-      <div class='shado'> <a href='./anime.html?anime=Chiyu%20Mahou%20no%20Machigatta%20Tsukaikata'/> </div>
-      <img src='https://s4.anilist.co/file/anilistcdn/media/anime/banner/137908-ZJ0tMykH623Z.jpg'/> 
-   </div>
-   <a class='prev' onclick='plusSlides(-1)'>&#10094;</a><a class='next' onclick='plusSlides(1)'>&#10095;</a>
-</div>
-  </b:if>
+
 <b:with value='[&quot;SUB&quot;,&quot;DUB&quot;]' var='Language'>
 <b:with value='[&quot;TV&quot;,&quot;Movie&quot;,&quot;OVA&quot;,&quot;ONA&quot;,&quot;Special&quot;,&quot;Donghua&quot;]' var='Type'>
 <b:with value='[&quot;WEB-DL&quot;,&quot;BD&quot;,&quot;CAM&quot;,&quot;HD&quot;]' var='Quality'>
 <b:with value='[&quot;Yaoi&quot;,&quot;Yuri&quot;]' var='Genre2'>
 <b:with value='[&quot;Action&quot;,&quot;Adventure&quot;,&quot;Comedy&quot;,&quot;Demons&quot;,&quot;Drama&quot;,&quot;Ecchi&quot;,&quot;Fantasy&quot;,&quot;Game&quot;,&quot;Gore&quot;,&quot;Harem&quot;,&quot;Historical&quot;,&quot;Horror&quot;,&quot;Isekai&quot;,&quot;Josei&quot;,&quot;Magic&quot;,&quot;Martial Arts&quot;,&quot;Mecha&quot;,&quot;Military&quot;,&quot;Music&quot;,&quot;Mystery&quot;,&quot;Psychological&quot;,&quot;Romance&quot;,&quot;Romcom&quot;,&quot;School&quot;,&quot;School Life&quot;,&quot;Sci-Fi&quot;,&quot;Seinen&quot;,&quot;Shoujo&quot;,&quot;Shoujo Ai&quot;,&quot;Shounen&quot;,&quot;Shounen Ai&quot;,&quot;Slice of Life&quot;,&quot;Sports&quot;,&quot;Super Power&quot;,&quot;Supernatural&quot;,&quot;Survival&quot;,&quot;Thriller&quot;,&quot;Tragedy&quot;,&quot;Vampire&quot;]' var='Genre'>
 <b:section id='main' showaddelement='true'>
-  <b:widget cond='data:view.isHomepage' id='PopularPosts1' locked='false' title='Most Popular' type='PopularPosts' version='2' visible='true'>
+  <b:widget cond='data:view.isHomepage' id='PopularPosts1' locked='false' title='Most Popular' type='PopularPosts' version='2' visible='false'>
     <b:widget-settings>
       <b:widget-setting name='numItemsToShow'>10</b:widget-setting>
       <b:widget-setting name='showThumbnails'>true</b:widget-setting>
@@ -744,31 +587,30 @@ h1{font-family:"Montserrat",sans-serif;font-size:40px;color:white;font-weight:70
   </div>
 </b:includable>
   </b:widget>
-  <b:widget id='Blog1' locked='true' title='Postingan Blog' type='Blog' version='2' visible='true'>
+  <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='2' visible='true'>
     <b:widget-settings>
+      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
       <b:widget-setting name='commentLabel'>Komentar</b:widget-setting>
+      <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='showShareButtons'>true</b:widget-setting>
       <b:widget-setting name='authorLabel'>Oleh</b:widget-setting>
+      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
+      <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+      <b:widget-setting name='showAuthor'>true</b:widget-setting>
+      <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='timestampLabel'>Pada</b:widget-setting>
       <b:widget-setting name='reactionsLabel'/>
       <b:widget-setting name='showAuthorProfile'>true</b:widget-setting>
       <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+      <b:widget-setting name='showLabels'>true</b:widget-setting>
       <b:widget-setting name='showLocation'>false</b:widget-setting>
+      <b:widget-setting name='postLabelsLabel'/>
       <b:widget-setting name='showTimestamp'>true</b:widget-setting>
       <b:widget-setting name='postsPerAd'>1</b:widget-setting>
-      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
-      <b:widget-setting name='showDateHeader'>false</b:widget-setting>
-      <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
-      <b:widget-setting name='showCommentLink'>true</b:widget-setting>
-      <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
-      <b:widget-setting name='postLocationLabel'>Location:</b:widget-setting>
-      <b:widget-setting name='showAuthor'>true</b:widget-setting>
-      <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
-      <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
-      <b:widget-setting name='showLabels'>true</b:widget-setting>
-      <b:widget-setting name='postLabelsLabel'/>
       <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+      <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
       <b:widget-setting name='showInlineAds'>false</b:widget-setting>
       <b:widget-setting name='showReactions'>false</b:widget-setting>
     </b:widget-settings>
@@ -1760,13 +1602,7 @@ h1{font-family:"Montserrat",sans-serif;font-size:40px;color:white;font-weight:70
 </b:with>
 </b:with>
 </b:with>
-    <footer>
-        <div>
-            <a href='https://github.com/TechShreyash' target='_blank'>MADE WITH <i class='fa fa-heart pulse'/>BY TECH
-                SHREYASH</a>
-            <a href='https://TechZBots.t.me' target='_blank'>(@TechZBots)</a>
-        </div>
-    </footer>
+  
 <b:if cond='data:view.isPost'>
   <script defer='defer' type='text/javascript'>/*<![CDATA[*/
 let _EpisodeListBS=new BloggerSitemap({
